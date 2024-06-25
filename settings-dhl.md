@@ -9,7 +9,7 @@
 
 ## Zugangsdaten erfassen
 
-Für die Verknpfung von easyDHL mit deinem DHL-Geschäftskonto ist lediglich die Erfassung der Zugangsdaten des DHL-Geschäftakundenportals notwendig. easyDHL importiert die dort erfassten Abrechnungsnummern und Receiver-Ids dann automatisch. [Video auf YouTube ansehen.](https://www.youtube.com/embed/7GEaQC02t5s?si=H5scMBPSOhefGJjq)
+Für die Verknpfung von easyDHL mit deinem DHL-Geschäftskonto ist lediglich die Erfassung der Zugangsdaten des DHL-Geschäftakundenportals notwendig. easyDHL importiert die dort erfassten Abrechnungsnummern und Receiver-Ids dann automatisch. <a class="video">https://youtu.be/7GEaQC02t5s</a>
 
 > [!NOTE]
 > Solltest du noch kein DHL-Geschäftskunde sein, kannst du dich hier registrieren: [DHL-Geschäftskunde werden](https://www.dhl.de/de/geschaeftskunden/paket/kunde-werden/angebot-dhl-geschaeftskunden-online.html)
@@ -18,13 +18,13 @@ Für die Verknpfung von easyDHL mit deinem DHL-Geschäftskonto ist lediglich die
 
 ## Teilnahmenummern überschreiben
 
-Solltest andere Teilnahmenummern als die importierten verwenden, so können diese bequem überschrieben werden. [Video auf YouTube ansehen.](https://www.youtube.com/embed/7GEaQC02t5s?si=H5scMBPSOhefGJjq)
+Solltest andere Teilnahmenummern als die importierten verwenden, so können diese bequem überschrieben werden. <a class="video">
 
 <a name="inactivate-receiver"></a>
 
 ## Receiver-Ids deaktivieren
 
-Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, nicht relevante Receiver-Ids zu dekativieren. [Video auf YouTube ansehen.](https://www.youtube.com/embed/7GEaQC02t5s?si=H5scMBPSOhefGJjq)
+Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, nicht relevante Receiver-Ids zu dekativieren. <a class="video">
 
 <a name="faq"></a>
 
