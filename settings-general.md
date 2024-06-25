@@ -20,7 +20,7 @@
 
 ## Bestellungen auf dem Dashboard
 
-Konfiguriere, wie Bestellungen auf dem Dashboard dargestellt werden sollen.
+Konfiguriere, wie Bestellungen auf dem Dashboard dargestellt werden sollen. <a class="video">https://youtu.be/zUGuI1ka880</a>
 
 <a name="count"></a>
 
@@ -68,7 +68,7 @@ Aktiviere die Blätterfunktion im Dashboard.
 
 ## Einstellung Bulk-Verarbeitung
 
-Konfiguriere, wie die Bulk-Verarbeitung durchgeführt werden soll.
+Konfiguriere, wie die Bulk-Verarbeitung durchgeführt werden soll. <a class="video">https://youtu.be/2DhmAx5W5hQ</a>
 
 <a name="items-count"></a>
 
@@ -98,7 +98,7 @@ Wir empfehlen hier nicht mehr als 250 auszuwählen. Als Bespiel: Ist hier 50 ein
 
 ## Dokumente sortiert zusammenführen
 
-Aktiviere diese Option, um alle Dokumente (Labels, Zollerklärungen, Lieferscheine und Rechnungen) sortiert nach Bestellnummer in einem PDF zu erhalten.
+Aktiviere diese Option, um alle Dokumente (Labels, Zollerklärungen, Lieferscheine und Rechnungen) sortiert nach Bestellnummer in einem PDF zu erhalten. <a class="video">https://youtu.be/epstS88Gn94</a>
 
 Neben dem Download kann das gesamte Dokument per Mail an die angegebene Adresse verschickt werden.
 
