@@ -9,7 +9,7 @@
 
 ## Allgemeine Einstellungen
 
-Alles rund um Picklisten findest du unter **Einstellungen --> Dokumente**.
+Alles rund um Picklisten findest du unter **Einstellungen --> Dokumente**. <a class="video">https://youtu.be/s29d-qkkMG0</a>
 
 <a name="picklist-fields"></a>
 

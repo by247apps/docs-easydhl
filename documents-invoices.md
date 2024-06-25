@@ -23,7 +23,7 @@
 
 ## Allgemeine Einstellungen
 
-Alles rund um Rechnungen findest du unter **Einstellungen --> Dokumente**.
+Alles rund um Rechnungen findest du unter **Einstellungen --> Dokumente**. <a class="video">https://youtu.be/\_XEoZMgMRVM</a>
 
 <a name="activate-invoices"></a>
 

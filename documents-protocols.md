@@ -8,7 +8,7 @@
 
 ## Allgemeine Einstellungen
 
-Alles rund um Sendungslisten findest du unter **Einstellungen --> Dokumente**.
+Alles rund um Sendungslisten findest du unter **Einstellungen --> Dokumente**. <a class="video">https://youtu.be/0Vu7vpqQAQ8</a>
 
 <a name="sorting"></a>
 

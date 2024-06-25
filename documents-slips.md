@@ -13,7 +13,7 @@
 
 ## Allgemeine Einstellungen
 
-Alles rund um Lieferscheine findest du unter **Einstellungen --> Dokumente**.
+Alles rund um Lieferscheine findest du unter **Einstellungen --> Dokumente**. <a class="video">https://youtu.be/LzuNXarggo8</a>
 
 <a name="template"></a>
 
