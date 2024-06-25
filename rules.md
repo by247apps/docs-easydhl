@@ -45,6 +45,9 @@ Zusätzlich können für DHL-Produkte weitere Optionen wie _Sperrgut, Altersprü
 > [!NOTE]  
 > Halte den Mauszeiger über das Lämpchen des jeweiligen Kriteriums, um weitere Informationen zu erhalten.
 
+<img width="657" alt="Versandregeln in Shopify (easyDHL) anlegen" src="https://github.com/by247apps/docs-easydhl/assets/2176503/b9344898-5448-4856-82a3-29863d341f50">
+
+
 <a name="inactivate-rule"></a>
 
 ### Regel deaktivieren
