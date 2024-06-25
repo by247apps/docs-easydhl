@@ -14,7 +14,7 @@
 
 ## Fulfillment
 
-Wie soll Shopify bei der Erstellung von Versandlabels reagieren. Wenn die Bestellungen ausgeführt werden sollen, wird die Tracking-Nummer der entsprechenden Bestellung in Shopify hinterlegt.
+Wie soll Shopify bei der Erstellung von Versandlabels reagieren. Wenn die Bestellungen ausgeführt werden sollen, wird die Tracking-Nummer der entsprechenden Bestellung in Shopify hinterlegt. <a class="video">https://youtu.be/cD0A-1ZVYBQ</a>
 
 <a name="location"></a>
 
@@ -40,14 +40,14 @@ Wenn Labels in easyDHL storniert werden, können mit dieser Option auch die ents
 
 easyDHL aktualisiert den Versandstatus der Sendungen und triggert dabei die Shopify-Benachrichtigung, wenn eine Sendung zugestellt wurde.
 
-> [!NOTE]  
+> [!NOTE]
 > Beachte, dass diese Funktion nur im Premium-Plus-Tarif zur Verfügung steht.
 
 <a name="tags"></a>
 
 ## Tags
 
-Mit dieser Option werden Bestellungen die über die Bulk-Erstellung verarbeitet werden mit den Tags 'easydhl-ok' oder easydhl-failed' markiert. Das kann hilfreich sein, um Bestellungen anhand der Tags in Shopify entprechend filtern zu können.
+Mit dieser Option werden Bestellungen die über die Bulk-Erstellung verarbeitet werden mit den Tags 'easydhl-ok' oder easydhl-failed' markiert. Das kann hilfreich sein, um Bestellungen anhand der Tags in Shopify entprechend filtern zu können. <a class="video">https://youtu.be/cD0A-1ZVYBQ</a>
 
 <a name="rights"></a>
 
