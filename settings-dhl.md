@@ -9,22 +9,22 @@
 
 ## Zugangsdaten erfassen
 
-Für die Verknpfung von easyDHL mit deinem DHL-Geschäftskonto ist lediglich die Erfassung der Zugangsdaten des DHL-Geschäftakundenportals notwendig. easyDHL importiert die dort erfassten Abrechnungsnummern und Receiver-Ids dann automatisch.
+Für die Verknpfung von easyDHL mit deinem DHL-Geschäftskonto ist lediglich die Erfassung der Zugangsdaten des DHL-Geschäftakundenportals notwendig. easyDHL importiert die dort erfassten Abrechnungsnummern und Receiver-Ids dann automatisch. [Video auf YouTube ansehen.](https://www.youtube.com/embed/7GEaQC02t5s?si=H5scMBPSOhefGJjq)
 
-> [!NOTE]  
+> [!NOTE]
 > Solltest du noch kein DHL-Geschäftskunde sein, kannst du dich hier registrieren: [DHL-Geschäftskunde werden](https://www.dhl.de/de/geschaeftskunden/paket/kunde-werden/angebot-dhl-geschaeftskunden-online.html)
 
 <a name="override-billing"></a>
 
 ## Teilnahmenummern überschreiben
 
-Solltest andere Teilnahmenummern als die importierten verwenden, so können diese bequem überschrieben werden.
+Solltest andere Teilnahmenummern als die importierten verwenden, so können diese bequem überschrieben werden. [Video auf YouTube ansehen.](https://www.youtube.com/embed/7GEaQC02t5s?si=H5scMBPSOhefGJjq)
 
 <a name="inactivate-receiver"></a>
 
 ## Receiver-Ids deaktivieren
 
-Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, nicht relevante Receiver-Ids zu dekativieren.
+Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, nicht relevante Receiver-Ids zu dekativieren. [Video auf YouTube ansehen.](https://www.youtube.com/embed/7GEaQC02t5s?si=H5scMBPSOhefGJjq)
 
 <a name="faq"></a>
 
@@ -39,7 +39,7 @@ Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, 
 
 <div>
 <dt><h4>Benutzername und Password stimmen aber ich kann mich nicht anmelden, woran liegt das?</h4></dt>
-<dd>Solltest du die 2FA Authentifizierung im DHL Geschäftskunden Portal aktiviert haben, dann wird es höchstwahrscheinlich am gewählten Sicherheitsproblem liegen. Hier entweder die 2FA komplett deaktiviert oder aber das Sicherheitsprofil wie folgt geändert werden, siehe Screenshot - "Absicherung sicherheitsrelevanter Änderungen"
+<dd>Solltest du die 2FA Authentifizierung im DHL Geschäftskunden Portal aktiviert haben, dann wird es höchstwahrscheinlich am gewählten Sicherheitsproblem liegen. Hier entweder die 2FA komplett deaktiviert oder aber das Sicherheitsprofil wie folgt geändert werden, siehe Screenshot:
 
 ![DHL-2fa-Problem](https://media.247apps.de/storage/faq/dhl-2fa-problem.png)</dd>
 

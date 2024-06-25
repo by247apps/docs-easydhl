@@ -26,41 +26,41 @@
 
 Als Vorauswahl in Bulk- und Einzelansicht sollten das nationale und internationale Versandprodukt gewählt werden.
 
-Zudem kann hier festgelegt werden, ob für den internationalen Versand standardmäßig die Premium-Option gebucht werden soll.
+Zudem kann hier festgelegt werden, ob für den internationalen Versand standardmäßig die Premium-Option gebucht werden soll. <a class="video">https://youtu.be/kQMqFhnEYx0</a>
 
 <a name="address"></a>
 
 ## Absenderadresse
 
-Die Absenderadresse kann entweder über die Standorte in Shopify oder durch die Absenderreferenz im DHL GKP festgelegt werden. Vorrang erhält dabei die Absenderreferenz, über die auch **Logos** auf dem Versandlabel dargesellt werden können.
+Die Absenderadresse kann entweder über die Standorte in Shopify oder durch die Absenderreferenz im DHL GKP festgelegt werden. Vorrang erhält dabei die Absenderreferenz, über die auch **Logos** auf dem Versandlabel dargesellt werden können. <a class="video">https://youtu.be/0x3HSBggxvY</a>
 
 <a name="weight"></a>
 
 ## Verpackungsgewicht
 
-Erfasse hier das Verpackungsgewicht für den Paket- und Warenpostversand. Dieses Gewicht wird dem Artikelgewicht hinzuaddiert wird. Zusätzlich kannst du hier auch ein Fallback-Gewicht festlegen, das dann greift, wenn die Produkte in einer Bestellung keine eigenen Gewichte haben.
+Erfasse hier das Verpackungsgewicht für den Paket- und Warenpostversand. Dieses Gewicht wird dem Artikelgewicht hinzuaddiert wird. Zusätzlich kannst du hier auch ein Fallback-Gewicht festlegen, das dann greift, wenn die Produkte in einer Bestellung keine eigenen Gewichte haben. <a class="video">https://youtu.be/BYjJqYXt2xU</a>
 
 <a name="label"></a>
 
 ## Labelerstellung
 
-Lege zusätzliche Optionen bei der Labelerstellung fest. Wie z.B. den Umgang mit Fehlerhaften aber leitcodierbaren Adressen.
+Lege zusätzliche Optionen bei der Labelerstellung fest. Wie z.B. den Umgang mit Fehlerhaften aber leitcodierbaren Adressen. <a class="video">https://youtu.be/3U49hH-AefU</a>
 
 <a name="format"></a>
 
-### Labelformat
+### Labelformat <a class="video">https://youtu.be/VLyJ5Wp2G5A</a>
 
 <a name="coding"></a>
 
 ### Leitcodierung
 
-In manchen Fällen kann DHL fehlerhafte Adressen trotzdem zuordnen und ein Label erstellen. Diesen Service berechnet DHL dann mit einer zusätzlichen Gebühr. Lege fest, ob dieser Service immer gebucht werden soll.
+In manchen Fällen kann DHL fehlerhafte Adressen trotzdem zuordnen und ein Label erstellen. Diesen Service berechnet DHL dann mit einer zusätzlichen Gebühr. Lege fest, ob dieser Service immer gebucht werden soll. <a class="video">https://youtu.be/VLyJ5Wp2G5A</a>
 
 <a name="dhl-validation"></a>
 
 ### Validerungsfehler
 
-Sollte auch bei unkritischen Validierungsfehlern kein Label erstellt werden, kann dies aktiviert werden.
+Sollte auch bei unkritischen Validierungsfehlern kein Label erstellt werden, kann dies aktiviert werden. <a class="video">https://youtu.be/3U49hH-AefU</a>
 
 <a name="phone"></a>
 
@@ -80,7 +80,7 @@ Verwendest du hier den Wert 2, werden für eine Bestellung mit fünf Artikeln, d
 
 ## Validierung der Bestellungen
 
-Lege fest, welche Prüfungen beim Laden der Bestellungen durchgeführt werden sollen.
+Lege fest, welche Prüfungen beim Laden der Bestellungen durchgeführt werden sollen. <a class="video">https://youtu.be/3U49hH-AefU</a>
 
 <a name="max-labels"></a>
 
@@ -98,22 +98,22 @@ easyDHL kann die Hausnummer für Adressen außerhalb DACH aus der Adresszeile zu
 
 ## Zolldokumente
 
-Trage hier die für die Verzollung relevanten Informationen ein. Diese werden dann entsprechend an DHL bzw. auf die Handelsrechnung übertragen.
+Trage hier die für die Verzollung relevanten Informationen ein. Diese werden dann entsprechend an DHL bzw. auf die Handelsrechnung übertragen. <a class="video">https://youtu.be/2do4eRyYgks</a>
 
-> [!NOTE]  
+> [!NOTE]
 > Wenn du noch keine EORI-Nummer hast, kannst du diese kostenlos beim Zoll beantragen. Weitere Informationen findest du [hier](https://www.zoll.de/DE/Fachthemen/Zoelle/EORI-Nummer/eori-nummer_node.html).
 
 <a name="notification"></a>
 
 ## Paketankündigung
 
-Stelle ein, ob die Email-Adresse des Kunden für die Paketankündigung an DHL übertragen werden soll.
+Stelle ein, ob die Email-Adresse des Kunden für die Paketankündigung an DHL übertragen werden soll. <a class="video">https://youtu.be/vijrlOFnFww</a>
 
 <a name="retoures"></a>
 
 ## Retouren
 
-Zu jedem Versandlabel kann ein Retourenlabel erzeugt werden. Dies verlangsamt jedoch die Bulk-Ausführung um ca. eine halbe Sekunde pro Label.
+Zu jedem Versandlabel kann ein Retourenlabel erzeugt werden. Dies verlangsamt jedoch die Bulk-Ausführung um ca. eine halbe Sekunde pro Label. <a class="video">https://youtu.be/UIKbGer5Yys</a>
 
 <a name="magnalister"></a>
 
@@ -125,13 +125,13 @@ Wenn aktiviert, befüllt easyDHL die Magnalister Otto-Felder mit Verfolgungsnumm
 
 ## Nachnahme
 
-Gebe deine Kontaktdaten und Bankverbindung für die Nachnahmesendungen an.
+Gebe deine Kontaktdaten und Bankverbindung für die Nachnahmesendungen an. <a class="video">https://youtu.be/Ud4B0N4batg</a>
 
 <a name="options"></a>
 
 ## Zusatzoptionen
 
-Lege hier fest, welche Zusatzservices bei jeder Labelerstellung gebucht werden sollen.
+Lege hier fest, welche Zusatzservices bei jeder Labelerstellung gebucht werden sollen. <a class="video">https://youtu.be/OCax3DANT94</a>
 
 <a name="faq"></a>
 
