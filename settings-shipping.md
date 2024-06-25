@@ -140,31 +140,31 @@ Lege hier fest, welche Zusatzservices bei jeder Labelerstellung gebucht werden s
 <div class="faq-list">
 <dl class="space-y-8">
 <div>
-<dt>Wie kann ich die Absenderadresse in easyDHL ändern?</dt>
+<dt><h4>Wie kann ich die Absenderadresse in easyDHL ändern?</h4></dt>
 <dd>Unter <strong>Einstellungen --> Versand</strong> innerhalb der App kannst du eine alternative Absendeadresse auswählen. Die dort zur Verfügung stehenden Adressen kommen aus deinen Shopify Standorten. Die Shopify Standorte kannst du in deinem Shopify Admin unter <strong>Einstellungen --> Standorte</strong> einsehen, editieren und neu hinzufügen.
 
-In easyDHL kannst du alternativ über die sogenannte _Absenderreferenz_, die Versand Adressen aus deinem DHL Geschäftskunden Portal verwenden. Dazu haben wir hier ein [Video](https://www.youtube.com/watch?v=Ppcaf6PWOw0){:target="\_blank"}.</dd>
+In easyDHL kannst du alternativ über die sogenannte _Absenderreferenz_, die Versand Adressen aus deinem DHL Geschäftskunden Portal verwenden. Dazu haben wir hier ein [Video](https://www.youtube.com/watch?v=Ppcaf6PWOw0){:target="\_blank"}</dd>
 
 </div>
 
 <div>
-<dt>Statt Firmenname wird unsere Firmenadresse (Straße) angezeigt. Wie können wir das ändern?</dt>
-<dd>In dem Fall werdet ihr voraussichtlich keine Absender Referenz verwenden und zwar die Adressen, die ihr in Shopify hinterlegt habt. dazu müsst ihr einmal in die Shopify Einstellungen unten links im Shopify Admin und dann unter Standorte beziehungsweise in Englisch Locations eure Adressen überprüfen. Dort ist oft als Standort Name die Straße oder Adresse eingetragen. Hier bitte die Standorte entsprechend korrigieren. Dann einen Moment warten und wieder in die App easy DHL unter Einstellungen Versand wechseln. Dort habt ihr dann in einem Dropdown eure Standorte zur Auswahl. Sollten die Änderung noch nicht sichtbar sein, dann bitte einmal eine halbe Minute warten und einen Browser-Reload der App durchführen.</dd>
+<dt><h4>Statt Firmenname wird unsere Firmenadresse (Straße) angezeigt. Wie können wir das ändern?</h4></dt>
+<dd>In dem Fall werdet ihr voraussichtlich keine Absender Referenz verwenden und zwar die Adressen, die ihr in Shopify hinterlegt habt. dazu müsst ihr einmal in die Shopify Einstellungen unten links im Shopify Admin und dann unter Standorte beziehungsweise in Englisch Locations eure Adressen überprüfen. Dort ist oft als Standort Name die Straße oder Adresse eingetragen. Hier bitte die Standorte entsprechend korrigieren. Dann einen Moment warten und wieder in die App easy DHL unter Einstellungen Versand wechseln. Dort habt ihr dann in einem Dropdown eure Standorte zur Auswahl. Sollten die Änderung noch nicht sichtbar sein, dann bitte einmal eine halbe Minute warten und einen Browser-Reload der App durchführen</dd>
 </dl>
 </div>
 
 <div>
-<dt>Wie bekomme ich unser Shop-Logo auf das Versandlabel?</dt>
+<dt><h4>Wie bekomme ich unser Shop-Logo auf das Versandlabel?</h4></dt>
 <dd>Um ein (Shop-)Logo auf dem Versandlabel darzustellen, muss zunächst eine gültige DHL-Absenderreferenz im Geschäftskundenportal unter <strong>Versenden --> Adressbuch --> Absender</strong> angelegt werden. Es muss eine Absenderadresse erfasst und optional ein Logo hochgeladen werden. Sobald dies erfolgt ist, muss die Absenderreferenz entsprechend auch in easyDHL übernommen werden, und zwar unter <strong>Einstellungen --> Versand</strong>. Anschließend erscheint auf dem Label neben der neuen Adresse auch das hochgeladene Logo.
 
-Dazu haben wir auch ein [Video](https://www.youtube.com/watch?v=Ppcaf6PWOw0){:target="\_blank"}.</dd>
+Dazu haben wir auch ein [Video](https://www.youtube.com/watch?v=Ppcaf6PWOw0){:target="\_blank"}</dd>
 
 </dl>
 </div>
 
 <div>
-<dt>Ist es möglich eine abweichende Adresse für Retouren zu hinterlegen?</dt>
-<dd>Die Empfänger Adresse ist der jeweiligen Receiver-ID hinterlegt. Das heißt, innerhalb der Shopify App kann diese Adresse nicht geändert werden sondern nur über das DHL Geschäftskundenportal und zwar an der Receiver-ID des entsprechenden Landes. Sollte dies dort nicht möglich sein, muss Kontakt zur DHL Geschäftskundenbetreuung aufgenommen werden.</dd>
+<dt><h4>Ist es möglich eine abweichende Adresse für Retouren zu hinterlegen?</h4></dt>
+<dd>Die Empfänger Adresse ist der jeweiligen Receiver-ID hinterlegt. Das heißt, innerhalb der Shopify App kann diese Adresse nicht geändert werden sondern nur über das DHL Geschäftskundenportal und zwar an der Receiver-ID des entsprechenden Landes. Sollte dies dort nicht möglich sein, muss Kontakt zur DHL Geschäftskundenbetreuung aufgenommen werden</dd>
 
 </dl>
 </div>

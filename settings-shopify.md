@@ -63,7 +63,7 @@ Um auf weitere Daten des Shops zuzugreifen, benötigt die App zusätzliche Berec
 <dl class="space-y-8">
 <div>
 <dt>
-<h4 id="wir-haben-noch-offene-bestellungen-die-alter-als-60-tage-sind-leider-ist-es-fur-uns-nicht-moglich-diese-bestellungen-aufzurufen-was-kann-man-da-machen">Wir haben noch offene Bestellungen, die älter als 60 Tage sind. Leider ist es für uns nicht möglich, diese Bestellungen aufzurufen. Was kann da machen?</h4>
+<h4>Wir haben noch offene Bestellungen, die älter als 60 Tage sind. Leider ist es für uns nicht möglich, diese Bestellungen aufzurufen. Was kann da machen?</h4>
 </dt>
 <dd>Innerhalb easyDHL unter <strong>Einstellungen --> Shopify</strong> kannst du Zugriff auf Bestellungen freigeben, die älter als 60 Tage sind.
 
@@ -74,13 +74,13 @@ Um auf weitere Daten des Shops zuzugreifen, benötigt die App zusätzliche Berec
 <div>
 
 <dt>
-<h4 id="weshalb-werden-fulfillment-und-versandbestatigung-nicht-ausgelost">Weshalb werden Fulfillment und Versandbestätigung nicht ausgelöst?</h4>
+<h4>Weshalb werden Fulfillment und Versandbestätigung nicht ausgelöst?</h4>
 </dt>
 <dd>Wenn nach der Labelerstellung kein Fulfillment und somit keine Versandbestätigung getrriggert wird, kann es an drei Gründen liegen:
 
 -   Das automatische Fulfillment ist in der App unter <strong>Einstellungen --> Shopify</strong> deaktiviert.
 -   Die Bestellung war bereits vorher schon ausgeführt. Dann überschreibt die App dieses Fulfillment auch nicht.
--   Das Feature benötigt einen bezahlten Tarif, der noch gebucht wurde.</dd>
+-   Das Feature benötigt einen bezahlten Tarif, der noch gebucht wurde</dd>
 </div>
 
 </div>

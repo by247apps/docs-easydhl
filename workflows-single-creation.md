@@ -143,21 +143,21 @@ Neben dem normalen Versandlabel kann über den Button _Retourenlabel erstellen_ 
 <div class="faq-list">
 <dl class="space-y-8">
 <div>
-<dt>Erstellung von Retourenlabels nicht möglich</dt>
+<dt><h4>Erstellung von Retourenlabels nicht möglich</h4></dt>
 <dd>Bitte beachte beim Benutzername die Groß und Kleinschreibung. Scheinbar wird bei der Retouren API der DHL zwischen Groß und Kleinschreibung unterschieden, wobei es bei der Versand Schnittstelle der DHL keine Unterscheidung gibt. So kann es sein, dass die Zugangsdaten für den Versand angenommen werden in easyDHL jedoch das laden der Receiver ID für die Retouren fehlschlägt. kontrolliere daher noch einmal genau dein Benutzername im DHL Geschäftskunden Portal auf Groß und Kleinschreibung innerhalb des Benutzernamens.
 
-Die Erstellung von länderspezifischen Retourenlabels kann nur über die DHL Vertragsabteilung deinem DHL-Account freigeschaltet werden.</dd>
+Die Erstellung von länderspezifischen Retourenlabels kann nur über die DHL Vertragsabteilung deinem DHL-Account freigeschaltet werden</dd>
 
 </div>
 
 <div>
-<dt>easyDHL moniert Adresse als falsch, obwohl diese laut Google Maps korrekt ist.</dt>
-<dd>Das Problem lässt sich am einfachsten über die Leitcodierung lösen. Diese kann über <strong>Einstellungen --> Versand</strong> aktiviert werden. Prüfe zudem, ob deine Absenderadresse korrekt ist. Dies kann einen ähnlichen Fehler verursachen, obwohl die Empfängeradresse korrekt ist.</dd>
+<dt><h4>easyDHL moniert Adresse als falsch, obwohl diese laut Google Maps korrekt ist.</h4></dt>
+<dd>Das Problem lässt sich am einfachsten über die Leitcodierung lösen. Diese kann über <strong>Einstellungen --> Versand</strong> aktiviert werden. Prüfe zudem, ob deine Absenderadresse korrekt ist. Dies kann einen ähnlichen Fehler verursachen, obwohl die Empfängeradresse korrekt ist</dd>
 
 </div>
 
 <div>
-<dt>Keine physischen Artikel gewählt, die den Versand erfordern.</dt>
+<dt><h4>Keine physischen Artikel gewählt, die den Versand erfordern.</h4></dt>
 <dd>Dieser Fehler tritt dann auf, wenn ein Artikel in der Bestellung vorhanden ist, bei dem unter der Shopify-Produktverwaltung das Häkchen "Das Produkt erfordert Versand" fehlt. Wenn das Häkchen nachträglich gesetzt wird, werden diese Änderungen nicht in vorherige Shopify-Bestellung übernommen. Für bereits vorhanden Bestellungen kann die Fehlermeldung aus diesem Grund nicht übergangen werden. Ein möglicher Lösungsweg ist, das Label manuell "Label ohne Bestellung" (oben rechts über das easyDHL-Dashboard) zu erzeugen.
 
 ![Shopify - Produkt erfordert Versand](https://media.247apps.de/storage/easydhl/manual/produkt-erfordert-versand.png)</dd>
@@ -165,8 +165,8 @@ Die Erstellung von länderspezifischen Retourenlabels kann nur über die DHL Ver
 </div>
 
 <div>
-<dt>Gewicht einer Sendung überschreiben.</dt>
-<dd>Das Gesamtgewicht einer Sendung setzt sich zusammen aus den Gewichten der einzelnen Produkte und dem Verpackungsgewicht. Es kann jedoch in der Einzelansicht überschrieben werden. Beachte jedoch, dass für Sendungen außerhalb der EU wegen der Verzollung nur das Verpackungsgewicht geändert werden kann.</dd>
+<dt><h4>Gewicht einer Sendung überschreiben.</h4></dt>
+<dd>Das Gesamtgewicht einer Sendung setzt sich zusammen aus den Gewichten der einzelnen Produkte und dem Verpackungsgewicht. Es kann jedoch in der Einzelansicht überschrieben werden. Beachte jedoch, dass für Sendungen außerhalb der EU wegen der Verzollung nur das Verpackungsgewicht geändert werden kann</dd>
 
 </div>
 </div>

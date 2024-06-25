@@ -128,12 +128,12 @@ Füge diesen Link in das Liquid-Template der Versandbestätigung ein, damit der 
 <div class="faq-list">
 <dl class="space-y-8">
 <div>
-<dt>Wir benötigen alle Rechnungen in einem bestimmten Zeitraum, wie kann ich diese gebündelt herunterladen?</dt>
-<dd>Dazu gibt es die Export-Funktion innerhalb der App unter dem Reiter Archiv. Den Button dazu findet ihr oben rechts im Archiv.</dd>
+<dt><h4>Wir benötigen alle Rechnungen in einem bestimmten Zeitraum, wie kann ich diese gebündelt herunterladen?</h4></dt>
+<dd>Dazu gibt es die Export-Funktion innerhalb der App unter dem Reiter Archiv. Den Button dazu findet ihr oben rechts im Archiv</dd>
 </div>
 
 <div>
-<dt>Wie kann ich beim Rechnungstemplate die fortlaufende Rechnungsnummer ändern?</dt>
-<dd>Es kann kein Nummernkreis frei gewählt werden. Unsere Shipping Apps bieten als Rechnungsnummer die Bestellnummer (#4711) oder eine Kombination aus Bestellnummer/Bestelldatum (#4711/2023-09-18) an.</dd>
+<dt><h4>Wie kann ich beim Rechnungstemplate die fortlaufende Rechnungsnummer ändern?</h4></dt>
+<dd>Es kann kein Nummernkreis frei gewählt werden. Unsere Shipping Apps bieten als Rechnungsnummer die Bestellnummer (#4711) oder eine Kombination aus Bestellnummer/Bestelldatum (#4711/2023-09-18) an</dd>
 </div>
 </div>

@@ -11,7 +11,7 @@
     -   [Allgemein](/apps/{{app}}/docs/documents-general)
     -   [Rechnungen](/apps/{{app}}/docs/documents-invoices)
     -   [Lieferscheine](/apps/{{app}}/docs/documents-slips)
-    -   [Tagesabschlusslisten](/apps/{{app}}/docs/documents-protocols)
+    -   [Sendungslisten](/apps/{{app}}/docs/documents-protocols)
     -   [Picklisten](/apps/{{app}}/docs/documents-picklists)
     -   [Lagerplätze](/apps/{{app}}/docs/documents-storage)
 -   ## Trackingportal

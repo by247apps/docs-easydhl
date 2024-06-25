@@ -47,8 +47,8 @@ Für die Übersichtlichkeit bei der Auswahl des Versandproduktes können neben d
 <div class="faq-list">
 <dl class="space-y-8">
 <div>
-<dt><h4 id="wie-konnen-produkte-der-internetmarke-bei-der-deutschen-post-storniert-werden">Wie können Produkte der Internetmarke bei der deutschen Post storniert werden?</h4></dt>
-<dd>Sollte einmal eine Erstattung der Internetmarken notwendig sein, so ist diese im Rahmen des Widerrufs innerhalb von 14 Tagen ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail) möglich. Sende dazu bitte das PDF-Dokument mit den zu erstattenden Internetmarken und der Bitte um Rückerstattung per E-Mail an internetmarke@deutschepost.de. Die Erstattung erfolgt ggf. als Gutschrift auf deine persönliche Portokasse bei der Internetmarke.</dd>
+<dt><h4>Wie können Produkte der Internetmarke bei der deutschen Post storniert werden?</h4></dt>
+<dd>Sollte einmal eine Erstattung der Internetmarken notwendig sein, so ist diese im Rahmen des Widerrufs innerhalb von 14 Tagen ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail) möglich. Sende dazu bitte das PDF-Dokument mit den zu erstattenden Internetmarken und der Bitte um Rückerstattung per E-Mail an internetmarke@deutschepost.de. Die Erstattung erfolgt ggf. als Gutschrift auf deine persönliche Portokasse bei der Internetmarke</dd>
 </div>
 </dl>
 </div>
