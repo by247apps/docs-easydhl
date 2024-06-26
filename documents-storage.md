@@ -22,6 +22,8 @@ Lege fest, an welche Email-Adresse der Export der Lagerplätze verschickt wird.
 
 Hier hast du die Möglichkeit, den gesamten Bestand an Lagerplätzen zu bearbeiten: Importieren, Exportieren, Löschen sowie einzelne Lagerplätze umbenennen.
 
+<a name="faq"></a>
+
 ## FAQ
 
 <div class="faq-list">
