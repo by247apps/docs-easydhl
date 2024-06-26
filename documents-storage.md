@@ -21,3 +21,21 @@ Lege fest, an welche Email-Adresse der Export der Lagerplätze verschickt wird.
 ## Lagerplätze verwalten
 
 Hier hast du die Möglichkeit, den gesamten Bestand an Lagerplätzen zu bearbeiten: Importieren, Exportieren, Löschen sowie einzelne Lagerplätze umbenennen.
+
+## FAQ
+
+<div class="faq-list">
+<dl class="space-y-8">
+<div>
+<dt><h4>Neue Artikel in Shopify angelegt, wie erscheinen diese nun in den Lagerplätzen?</h4></dt>
+<dd><p>Die Artikel werden nicht automatisch synchronisiert / zu den Lagerplätzen der in der App hinzugefügt. Um neue Artikel mit aufzunehmen, empfehlen wir die folgende Vorgehensweise:</p>
+  <ul>
+    <li>Lagerplätze neu exportieren</li>
+    <li>Anpassungen in der Excel vornehmen</li>
+    <li>Excel import starten</li>
+  </ul>
+</dd>
+</div>
+</dl>
+</div>
+
