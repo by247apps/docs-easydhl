@@ -12,7 +12,7 @@ Oftmals möchte man ein Label erstellen, ohne dass eine Bestellung zu Grunde lie
 Anschließend kann das Label wie gewohnt erstellt werden.
 
 > [!NOTE]  
-> Auf diese Weise können nur Labels innerhalb der EU erstellt werden. Benötigst du ein Label außerhalb der EU, so kannst du es auch im DHL-Geschäftskundenportal erzeugen.
+> Auf diese Weise können nur Labels innerhalb der EU erstellt werden. Benötigst du ein Label außerhalb der EU, so kannst du es auch im DHL-Geschäftskundenportal erzeugen. Hintergrund ist, easyDHL benötigt für nicht-EU-Sendungen Daten aus der Bestellung für die Erstellung der Zolldokumente. Alternativ könntest du im Shopify Admin eine Bestellung erstellen und über diese dann das gewünschte Versandlabel erstellen.
 
 <a name="label-for-customer"></a>
 
