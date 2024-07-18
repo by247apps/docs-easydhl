@@ -167,6 +167,10 @@ Die Erstellung von länderspezifischen Retourenlabels kann nur über die DHL Ver
 <div>
 <dt><h4>Gewicht einer Sendung überschreiben.</h4></dt>
 <dd>Das Gesamtgewicht einer Sendung setzt sich zusammen aus den Gewichten der einzelnen Produkte und dem Verpackungsgewicht. Es kann jedoch in der Einzelansicht überschrieben werden. Beachte jedoch, dass für Sendungen außerhalb der EU wegen der Verzollung nur das Verpackungsgewicht geändert werden kann</dd>
+</div>
 
+<div>
+<dt><h4>Produktbeschreibung Verzollung</h4></dt>
+<dd>Für die Verzollung der einzelnen Artikeln wird deren Produkttitel genommen. In manchen Fällen ist dieser zu kurz und/oder uneindeutig. Man kann aber eigenen Titel als Produkttag im folgenden Format anlegen "easyDHL_customs_titel". Dann wird dieser Eintrag der DHL übergeben.</dd>
 </div>
 </div>
