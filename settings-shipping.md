@@ -28,6 +28,14 @@ Als Vorauswahl in Bulk- und Einzelansicht sollten das nationale und internationa
 
 Zudem kann hier festgelegt werden, ob für den internationalen Versand standardmäßig die Premium-Option gebucht werden soll. <a class="video">https://youtu.be/kQMqFhnEYx0</a>
 
+> [!NOTE]
+> DHL Premium Versand gilt nicht automatisch für einige Länder, die außerhalb der Hauptversandzonen liegen. Hier sind einige Beispiele:
+
+-   Zone 9: Einige Inselstaaten in der Karibik und im Pazifik
+-   Zone 10: Einige afrikanische Länder, die nicht in Zone 6 oder 7 fallen
+-   Zone 11: Einige Länder in Zentralasien und im Nahen Osten, die nicht in Zone 6 fallen
+-   Für diese Länder kann es sein, dass der Premium Versand nicht automatisch verfügbar ist und zusätzliche Gebühren oder spezielle Versandoptionen erforderlich sind.
+
 <a name="address"></a>
 
 ## Absenderadresse
