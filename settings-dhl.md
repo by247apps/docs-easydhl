@@ -2,7 +2,7 @@
 
 -   [Zugangsdaten erfassen](#credentials)
 -   [Teilnahmenummern überschreiben](#override-billing)
--   [Receiver-Ids deaktivieren](#inactivate-receiver)
+-   [Receiver-Ids](#inactivate-receiver)
 -   [FAQ](#faq)
 
 <a name="credentials"></a>
@@ -18,13 +18,13 @@ Für die Verknpfung von easyDHL mit deinem DHL-Geschäftskonto ist lediglich die
 
 ## Teilnahmenummern überschreiben
 
-Solltest andere Teilnahmenummern als die importierten verwenden, so können diese bequem überschrieben werden. <a class="video">
+Solltest andere Teilnahmenummern als die importierten verwenden, so können diese bequem überschrieben werden.
 
 <a name="inactivate-receiver"></a>
 
 ## Receiver-Ids deaktivieren
 
-Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, nicht relevante Receiver-Ids zu dekativieren. <a class="video">
+Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, nicht relevante Receiver-Ids zu deaktivieren.
 
 <a name="faq"></a>
 
