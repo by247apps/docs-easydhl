@@ -123,6 +123,10 @@ Stelle ein, ob die Email-Adresse des Kunden für die Paketankündigung an DHL ü
 
 Zu jedem Versandlabel kann ein Retourenlabel erzeugt werden. Dies verlangsamt jedoch die Bulk-Ausführung um ca. eine halbe Sekunde pro Label. <a class="video">https://youtu.be/UIKbGer5Yys</a>
 
+#### Druckformat des Retourenlabels
+
+Das Druckformat des Retourenlabels kann im [DHL Geschäftskundenportal](https://geschaeftskunden.dhl.de/) wie folgt geändert werden:
+
 <a name="magnalister"></a>
 
 ### Magnalister
