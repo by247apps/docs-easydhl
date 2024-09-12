@@ -15,7 +15,7 @@
 -   [Zolldokumente](#customs)
 -   [Paketankündigung](#notification)
 -   [Retouren](#retoures)
-    -   [Magnalister](#magnalister)
+-   [Magnalister](#magnalister)
 -   [Nachnahme](#cod)
 -   [Zusatzoptionen](#options)
 -   [FAQ](#faq)
@@ -126,6 +126,13 @@ Zu jedem Versandlabel kann ein Retourenlabel erzeugt werden. Dies verlangsamt je
 #### Druckformat des Retourenlabels
 
 Das Druckformat des Retourenlabels kann im [DHL Geschäftskundenportal](https://geschaeftskunden.dhl.de/) wie folgt geändert werden:
+
+<img width="590" alt="Screenshot 2024-09-12 at 16 31 05" src="https://github.com/user-attachments/assets/f57a519a-4209-49a7-99d8-fbc5503c5c3d">
+<br><br/>
+<img width="1013" alt="Screenshot 2024-09-12 at 16 30 58" src="https://github.com/user-attachments/assets/dc075d94-aab3-4cc2-9d72-b3f3c45910d1">
+
+
+
 
 <a name="magnalister"></a>
 
