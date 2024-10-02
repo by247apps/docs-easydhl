@@ -26,6 +26,8 @@ Solltest andere Teilnahmenummern als die importierten verwenden, so können dies
 
 Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, nicht relevante Receiver-Ids zu deaktivieren.
 
+
+
 <a name="faq"></a>
 
 ## FAQ
@@ -42,6 +44,17 @@ Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, 
 <dd>Solltest du die 2FA Authentifizierung im DHL Geschäftskunden Portal aktiviert haben, dann wird es höchstwahrscheinlich am gewählten Sicherheitsproblem liegen. Hier entweder die 2FA komplett deaktiviert oder aber das Sicherheitsprofil wie folgt geändert werden, siehe Screenshot:
 
 ![DHL-2fa-Problem](https://media.247apps.de/storage/faq/dhl-2fa-problem.png)</dd>
+
+</div>
+
+<div>
+<dt><h4>Receiver Ids können nicht geladen werden, woran liegt das?</h4></dt>
+<dd>Stelle sicher, dass in deinem DHL Vertrag die Möglichkeit für Retouren hinterlegt ist. 
+
+<img width="700" alt="retouren-im-dhl-vertrag" src="https://github.com/user-attachments/assets/649b49e9-9469-42cb-9004-fe39257b51a9">
+
+  
+Wenn im DHL Geschäftskundenportal, keine Retouren Receiver IDs zu finden sind (siehe Screenshot), melde dich bei der DHL Vertragsabteilung um dies freizuschalten. Erwähne dabei, dass es sich um den Versand über die DHL Retouren Schnittstelle handelt und entsprechende Receiver IDs für alle Länder, aus denen du Retouren empfangen möchtest hinterlegt werden sollen. Wir haben auf vertragliche Angelegenheiten keinen Zugriff.</dd>
 
 </div>
 
