@@ -49,9 +49,11 @@ Solltest du mehrere Receiver-Ids für ein Land haben, hast du die Möglichkeit, 
 
 <div>
 <dt><h4>Receiver Ids können nicht geladen werden, woran liegt das?</h4></dt>
-<dd>Stelle sicher, dass in deinem DHL Vertrag die Möglichkeit für Retouren hinterlegt ist. Wenn im DHL Geschäftskundenportal, keine Retouren Receiver IDs zu finden sind (siehe Screenshot), melde dich bei der DHL Vertragsabteilung um dies freizuschalten. Erwähne dabei, dass es sich um den Versand über die DHL Retouren Schnittstelle handelt und entsprechende Receiver IDs für alle Länder, aus denen du Retouren empfangen möchtest hinterlegt werden sollen. Wir haben auf vertragliche Angelegenheiten keinen Zugriff.
-<br/><br/>
+<dd>Stelle sicher, dass in deinem DHL Vertrag die Möglichkeit für Retouren hinterlegt ist. 
+
 <img width="700" alt="retouren-im-dhl-vertrag" src="https://github.com/user-attachments/assets/649b49e9-9469-42cb-9004-fe39257b51a9">
+  
+Wenn im DHL Geschäftskundenportal, keine Retouren Receiver IDs zu finden sind (siehe Screenshot), melde dich bei der DHL Vertragsabteilung um dies freizuschalten. Erwähne dabei, dass es sich um den Versand über die DHL Retouren Schnittstelle handelt und entsprechende Receiver IDs für alle Länder, aus denen du Retouren empfangen möchtest hinterlegt werden sollen. Wir haben auf vertragliche Angelegenheiten keinen Zugriff.
 
 </dd>
 
