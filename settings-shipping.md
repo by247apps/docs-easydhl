@@ -48,6 +48,10 @@ Die Absenderadresse kann entweder über die Standorte in Shopify oder durch die 
 
 Erfasse hier das Verpackungsgewicht für den Paket- und Warenpostversand. Dieses Gewicht wird dem Artikelgewicht hinzuaddiert wird. Zusätzlich kannst du hier auch ein Fallback-Gewicht festlegen, das dann greift, wenn die Produkte in einer Bestellung keine eigenen Gewichte haben. <a class="video">https://youtu.be/BYjJqYXt2xU</a>
 
+Das Versandgewicht ergibt sich aus der Summe der Artikelgewichte aus der Bestellung plus dem Verpackungsgewicht. Wenn ihr das Gewicht einer Bestellung überschreiben möchtet, müsstet ihr die Bestellung einmal in der App in der Detailansicht öffnen. Dort könnt ihr auf der rechten Seite, vor Erstellung des Versandlabels, des Gewicht editieren. Da die Gewichte innerhalb der Bestellungen manifestiert sind, ist eine nachträgliche Änderung des Gewichts innerhalb der Bestellung durch die Gewicht-Anpassung im Produktkatalog nicht möglich. Nach Anpassung der Gewichte im Produktkatalog haben dann zukünftige Bestellungen dieses Artikelgewicht.
+
+Beachte auch diese Funktion -> [Video zum regelbasierten Verpackungsgwicht.](https://www.youtube.com/watch?v=I87Ci2wdgqo)
+
 <a name="label"></a>
 
 ## Labelerstellung
