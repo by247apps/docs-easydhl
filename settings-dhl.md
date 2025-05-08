@@ -20,6 +20,9 @@ Für die Verknpfung von easyDHL mit deinem DHL-Geschäftskonto ist lediglich die
 
 Solltest andere Teilnahmenummern als die importierten verwenden, so können diese bequem überschrieben werden.
 
+> [!NOTE]
+> Sollte ein Produkt nicht aufgelistet sein wie z.B. Kleinpaket (Warenpost) kann dies nur duch die DHL Vertragsabteilung freigeschaltet werden. Das Problem ist bei DHL technisch im System. Neue Nummer (Produkte) werden oft nicht automatisch freigegeben. Das heißt, man muss da bei der technischen Abteilung anrufen, damit diese das manuell freischalten. 
+
 <a name="inactivate-receiver"></a>
 
 ## Receiver-Ids deaktivieren
